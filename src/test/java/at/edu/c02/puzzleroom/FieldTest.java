@@ -75,4 +75,5 @@ public class FieldTest {
         // Game should be finished after moving right twice
         assertTrue(gameBoard.isFinished());
     }
+
 }
