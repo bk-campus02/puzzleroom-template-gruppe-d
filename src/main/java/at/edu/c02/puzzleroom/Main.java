@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Main {
     /**
      * This is the main program and entry point.
-     * You should not have to change anything here.
+     * You should not have to change anything here..
      */
     public static void main(String[] args) throws IOException {
         System.out.println("=== Puzzle Room ===");
